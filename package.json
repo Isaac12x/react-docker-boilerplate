@@ -1,7 +1,9 @@
 {
-  "name": "test",
+  "name": "react-docker-boilerplate",
+  "author": "Isaac Ramonet",
+  "Organization": "Kippie",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "optionalDependencies": {
     "fsevents": "*"
   },
