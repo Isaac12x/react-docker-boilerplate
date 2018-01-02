@@ -18,4 +18,4 @@ RUN yarn run build
 
 # defined in package.json
 CMD [ "yarn", "run", "server" ]
-EXPOSE 9000
+EXPOSE 3871

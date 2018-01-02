@@ -31,7 +31,7 @@ docker build -t react-app .
 
 and then run the cotainer
 ```bash
-docker run -d -p 80:9000 --name react-app routed-react
+docker run -d -p 8000:3871 --name react-app routed-react
 ```
 
 ***
