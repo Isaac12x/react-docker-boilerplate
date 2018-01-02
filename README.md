@@ -1,4 +1,6 @@
 # Boilerplate React app with Express server and Docker 
+[![Dependency Status](https://david-dm.org/isaac12x/react-docker-boilerplate.svg)](https://david-dm.org/react-docker-boilerplate)  [![devDependency Status](https://david-dm.org/grommet/react-docker-boilerplate.svg)](https://david-dm.org/react-docker-boilerplate#info=devDependencies)
+
 React ready to start developing, build ready for production. Checkout the different branches in order to find different coding styles for the main react app.
 
 TODO:
